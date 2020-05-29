@@ -1,0 +1,65 @@
+
+body{
+	background-color: black ;
+	font-family: arial;
+}
+h4,h6{
+	margin: 3px;
+	padding: 2px;
+	margin-top: 2px;
+}
+table{
+	background-color: #FFC035;
+	border-radius: 0px;
+	width: 70	%;
+
+}
+#pagina{
+	box-shadow: 0px 2px 0px width;
+}
+#foto{
+	width: 200px;
+	border-radius: 50%;
+	box-shadow: 5px 5px 5px black;
+	border: solid 10px black; 
+}
+.titulo1{
+	color: black;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+}
+.titulo2{
+	color: black;
+	text-align: center;
+}
+.linea1{
+	border-bottom: solid 2px black;
+	text-align: center;
+}
+.linea2-1{
+	border-bottom: solid 2px black;
+	text-align: center;
+}
+.line{
+	width: 60%;
+}
+.line2{
+	width: 60%;
+}
+}
+.linea2{
+	border-bottom: solid 2px black;
+	text-align: center;
+}
+.redes1{
+	border-bottom: solid 2px black;
+	text-align: center;
+}
+.habil1{
+	border-bottom: solid 2px black;
+	text-align: center;
+}
+.infor2{
+	border-bottom: solid 2px black;
+	text-align: center;
+}
